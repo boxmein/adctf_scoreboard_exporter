@@ -6,6 +6,7 @@ import (
 	"fmt"
 	"log"
 	"os"
+	"time"
 
 	"github.com/boxmein/adctf_scoreboard_exporter/pkg/fetchers/faustv2"
 	"go.opentelemetry.io/otel"
@@ -27,6 +28,16 @@ type FaustV2Exporter struct {
 	captures           metric.Int64ObservableGauge
 	stolen             metric.Int64ObservableGauge
 	tick               metric.Int64ObservableGauge
+
+	lastCurrent   *faustv2.CurrentJson
+	lastCurrentAt time.Time
+
+	lastTeams   faustv2.ScoreboardTeamsJson
+	lastTeamsAt time.Time
+
+	lastRoundTick int64
+	lastRound     *faustv2.ScoreboardRoundJson
+	lastRoundAt   time.Time
 }
 
 func New() FaustV2Exporter {
@@ -107,7 +118,7 @@ func (f *FaustV2Exporter) Init(args []string) error {
 
 	f.captures = captures
 
-	stolen, err := meter.Int64ObservableGauge("scoreboard_stolen", metric.WithDescription("Flags lost. Faceted by service and team."), metric.WithInt64Callback(f.GetCaptureMetrics))
+	stolen, err := meter.Int64ObservableGauge("scoreboard_stolen", metric.WithDescription("Flags lost. Faceted by service and team."), metric.WithInt64Callback(f.GetStolenMetrics))
 
 	if err != nil {
 		return fmt.Errorf("while setting up stolen gauge: %w", err)
@@ -123,17 +134,53 @@ func (f *FaustV2Exporter) GetRound() (*faustv2.ScoreboardRoundJson, error) {
 	if err != nil {
 		return nil, err
 	}
-	return faustv2.LoadScoreboardRoundJson(*f.scoreboardRoundUrl, tick)
+
+	now := time.Now()
+	if f.lastRound != nil && f.lastRoundAt.Add(10*time.Second).After(now) {
+		log.Printf("using cached round data from tick %d", f.lastRound.Tick)
+		return f.lastRound, nil
+	}
+
+	data, err := faustv2.LoadScoreboardRoundJson(*f.scoreboardRoundUrl, tick)
+
+	if err != nil {
+		return nil, err
+	} else {
+		f.lastRound = data
+		f.lastRoundAt = time.Now()
+		f.lastRoundTick = tick
+		return data, nil
+	}
 }
 
 func (f *FaustV2Exporter) GetTeams() (faustv2.ScoreboardTeamsJson, error) {
-	return faustv2.LoadTeamsJson(*f.teamsURL)
+	now := time.Now()
+	if f.lastTeams != nil && f.lastTeamsAt.Add(10*time.Second).After(now) {
+		return f.lastTeams, nil
+	}
+	data, err := faustv2.LoadTeamsJson(*f.teamsURL)
+	if err != nil {
+		return nil, err
+	} else {
+		f.lastTeams = data
+		f.lastTeamsAt = time.Now()
+		return data, nil
+	}
 }
 
 func (f *FaustV2Exporter) GetTick() (int64, error) {
+	now := time.Now()
+	if f.lastCurrent != nil && f.lastCurrentAt.Add(10*time.Second).After(now) {
+		log.Printf("cached tick is %d", f.lastCurrent.ScoreboardTick)
+		return f.lastCurrent.ScoreboardTick, nil
+	}
+
 	data, err := faustv2.LoadCurrentJson(*f.currentURL)
 	if err != nil {
 		return -1, err
+	} else {
+		f.lastCurrent = data
+		f.lastCurrentAt = time.Now()
 	}
 	return data.ScoreboardTick, nil
 }

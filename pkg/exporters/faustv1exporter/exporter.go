@@ -6,6 +6,7 @@ import (
 	"fmt"
 	"log"
 	"os"
+	"time"
 
 	"github.com/boxmein/adctf_scoreboard_exporter/pkg/fetchers/faustv1"
 	"go.opentelemetry.io/otel"
@@ -24,6 +25,12 @@ type FaustV1Exporter struct {
 	defense       metric.Float64ObservableGauge
 	sla           metric.Float64ObservableGauge
 	tick          metric.Int64ObservableGauge
+
+	lastScoreboard   *faustv1.ScoreboardJson
+	lastScoreboardAt time.Time
+
+	lastStatus   *faustv1.StatusJson
+	lastStatusAt time.Time
 }
 
 func New() FaustV1Exporter {
@@ -95,21 +102,54 @@ func (f *FaustV1Exporter) Init(args []string) error {
 }
 
 func (f *FaustV1Exporter) GetTeams() (*faustv1.ScoreboardJson, error) {
-	return faustv1.LoadScoreboardJson(*f.scoreboardURL)
+	now := time.Now()
+	if f.lastScoreboard != nil && f.lastScoreboardAt.Add(10*time.Second).After(now) {
+		log.Printf("using cached scoreboard for 10 seconds")
+		return f.lastScoreboard, nil
+	}
+
+	scoreboard, err := faustv1.LoadScoreboardJson(*f.scoreboardURL)
+
+	if err != nil {
+		return nil, err
+	} else {
+		f.lastScoreboard = scoreboard
+		f.lastScoreboardAt = time.Now()
+	}
+
+	return scoreboard, nil
 }
 
 func (f *FaustV1Exporter) GetServiceNamesByIndex() ([]string, error) {
+	now := time.Now()
+	if f.lastStatus != nil && f.lastStatusAt.Add(10*time.Second).After(now) {
+		log.Printf("using cached status.json for 10 seconds")
+		return f.lastStatus.Services, nil
+	}
+
 	data, err := faustv1.LoadStatusJson(*f.statusURL)
 	if err != nil {
 		return nil, err
+	} else {
+		f.lastStatus = data
+		f.lastStatusAt = time.Now()
 	}
 	return data.Services, nil
 }
 
 func (f *FaustV1Exporter) GetTick() (int64, error) {
+	now := time.Now()
+	if f.lastScoreboard != nil && f.lastScoreboardAt.Add(10*time.Second).After(now) {
+		log.Printf("using cached scoreboard for 10 seconds")
+		return f.lastScoreboard.Tick, nil
+	}
+
 	data, err := faustv1.LoadScoreboardJson(*f.scoreboardURL)
 	if err != nil {
 		return -1, err
+	} else {
+		f.lastScoreboard = data
+		f.lastScoreboardAt = time.Now()
 	}
 	return data.Tick, nil
 }

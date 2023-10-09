@@ -2,22 +2,19 @@ package faustv1
 
 import (
 	"encoding/json"
-	"errors"
 	"fmt"
 	"io"
 	"log"
-	"net/http"
+
+	"github.com/boxmein/adctf_scoreboard_exporter/pkg/httpclient"
 )
 
 func LoadStatusJson(url string) (*StatusJson, error) {
-	resp, err := http.DefaultClient.Get(url)
+	resp, err := httpclient.HttpClient.Get(url)
+	log.Printf("GET %s => %s", url, resp.Status)
 	if err != nil {
 		return nil, fmt.Errorf("while loading status.json: %w", err)
 	}
-	if resp == nil {
-		return nil, errors.New("resp was nil for some reason")
-	}
-	log.Printf("GET %s => %s", url, resp.Status)
 	defer resp.Body.Close()
 	data, err := io.ReadAll(resp.Body)
 	if err != nil {
@@ -46,6 +43,6 @@ type StatusJsonTeam struct {
 	ID   int64  `json:"id"`
 	Nop  bool   `json:"nop"`
 	Name string `json:"name"`
-	// mapping of service index to last 5 status codes
-	Ticks [][]int64 `json:"ticks"`
+	// mapping of service index to last 5 status codes (number or "")
+	Ticks [][]interface{} `json:"ticks"`
 }

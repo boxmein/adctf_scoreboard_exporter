@@ -1,0 +1,1196 @@
+{
+  "3": {
+    "name": "jri",
+    "aff": "University of New Orleans",
+    "country": "United States",
+    "logo": "/uploads/team-images/thumbnails/3.png"
+  },
+  "4": {
+    "name": "saarsec",
+    "aff": "Saarland University",
+    "country": "Germany",
+    "logo": "/uploads/team-images/thumbnails/4.png"
+  },
+  "6": {
+    "name": "SYNN3R",
+    "aff": "HTW Berlin",
+    "country": "Germany",
+    "logo": "/uploads/team-images/thumbnails/6.png"
+  },
+  "8": {
+    "name": "backspace",
+    "aff": "backspace",
+    "country": "Germany",
+    "logo": "/uploads/team-images/thumbnails/8.png"
+  },
+  "9": {
+    "name": "SHAHEEN",
+    "aff": "",
+    "country": "United Arab Emirates",
+    "logo": "/uploads/team-images/thumbnails/9.png"
+  },
+  "10": {
+    "name": "HgbSec",
+    "aff": "University of Applied Sciences Upper Austria",
+    "country": "Austria",
+    "logo": "/uploads/team-images/thumbnails/10.png"
+  },
+  "11": {
+    "name": "ucx",
+    "aff": "",
+    "country": "Brazil",
+    "logo": null
+  },
+  "12": {
+    "name": "M.I.S.T.",
+    "aff": "FH M\u00fcnster",
+    "country": "Germany",
+    "logo": "/uploads/team-images/thumbnails/12.png"
+  },
+  "13": {
+    "name": "bhackari",
+    "aff": "Universit\u00e0 Ca' Foscari di Venezia",
+    "country": "Italy",
+    "logo": "/uploads/team-images/thumbnails/13.png"
+  },
+  "14": {
+    "name": "KinderBueno",
+    "aff": "HFKB",
+    "country": "Luxembourg",
+    "logo": "/uploads/team-images/thumbnails/14.png"
+  },
+  "16": {
+    "name": "Hecker404",
+    "aff": "Skill Issue",
+    "country": "Italy",
+    "logo": null
+  },
+  "19": {
+    "name": "CroissantBeurre",
+    "aff": "",
+    "country": "France",
+    "logo": "/uploads/team-images/thumbnails/19.png"
+  },
+  "21": {
+    "name": "elliot13",
+    "aff": "Syracuse University",
+    "country": "United States",
+    "logo": null
+  },
+  "25": {
+    "name": "Team_Luxembourg",
+    "aff": "ECSC Team Luxembourg",
+    "country": "Luxembourg",
+    "logo": null
+  },
+  "26": {
+    "name": "NoPwn4OldMen",
+    "aff": "",
+    "country": "Hungary",
+    "logo": null
+  },
+  "27": {
+    "name": "Hungary23",
+    "aff": "",
+    "country": "Hungary",
+    "logo": null
+  },
+  "29": {
+    "name": "TeamAustria",
+    "aff": "ECSC Team Austria",
+    "country": "Austria",
+    "logo": "/uploads/team-images/thumbnails/29.png"
+  },
+  "30": {
+    "name": "ENOFLAG",
+    "aff": "TU Berlin",
+    "country": "Germany",
+    "logo": "/uploads/team-images/thumbnails/30.png"
+  },
+  "34": {
+    "name": "UnicornTeam",
+    "aff": "",
+    "country": "Russian Federation",
+    "logo": "/uploads/team-images/thumbnails/34.png"
+  },
+  "37": {
+    "name": "KITCTF",
+    "aff": "Karlsruhe Instute of Technology",
+    "country": "Germany",
+    "logo": "/uploads/team-images/thumbnails/37.png"
+  },
+  "38": {
+    "name": "ECSC_TeamNL_2023",
+    "aff": "ECSC Team The Netherlands",
+    "country": "Netherlands",
+    "logo": null
+  },
+  "39": {
+    "name": "room2042",
+    "aff": "",
+    "country": "Netherlands",
+    "logo": "/uploads/team-images/thumbnails/39.png"
+  },
+  "40": {
+    "name": "TeamEnu",
+    "aff": "",
+    "country": "Japan",
+    "logo": null
+  },
+  "41": {
+    "name": "Zera",
+    "aff": "IUT Colmar",
+    "country": "France",
+    "logo": "/uploads/team-images/thumbnails/41.png"
+  },
+  "42": {
+    "name": "CzechCyberTeam",
+    "aff": "",
+    "country": "Czech Republic",
+    "logo": "/uploads/team-images/thumbnails/42.png"
+  },
+  "43": {
+    "name": "Segphault",
+    "aff": "",
+    "country": "Denmark",
+    "logo": null
+  },
+  "44": {
+    "name": "BrixiaSploiters",
+    "aff": "Universit\u00e0 degli Studi di Brescia",
+    "country": "Italy",
+    "logo": "/uploads/team-images/thumbnails/44.png"
+  },
+  "45": {
+    "name": "toni",
+    "aff": "",
+    "country": "Croatia",
+    "logo": null
+  },
+  "46": {
+    "name": "BinaryBears",
+    "aff": "MTUCI",
+    "country": "Russian Federation",
+    "logo": "/uploads/team-images/thumbnails/46.png"
+  },
+  "48": {
+    "name": "92i_P1r4tr13",
+    "aff": "92i_P1r4tr13",
+    "country": "France",
+    "logo": null
+  },
+  "49": {
+    "name": "tummiecookie",
+    "aff": "",
+    "country": "Thailand",
+    "logo": null
+  },
+  "50": {
+    "name": "pwnthem0le",
+    "aff": "Politecnico di Torino",
+    "country": "Italy",
+    "logo": "/uploads/team-images/thumbnails/50.png"
+  },
+  "51": {
+    "name": "DragonSecSI",
+    "aff": "University of Ljubljana",
+    "country": "Slovenia",
+    "logo": "/uploads/team-images/thumbnails/51.png"
+  },
+  "52": {
+    "name": "ECSC_Team_Estonia",
+    "aff": "ECSC 2023",
+    "country": "Estonia",
+    "logo": null
+  },
+  "53": {
+    "name": "CyberHero",
+    "aff": "",
+    "country": "Serbia",
+    "logo": "/uploads/team-images/thumbnails/53.png"
+  },
+  "54": {
+    "name": "pwnagaukar",
+    "aff": "",
+    "country": "Iceland",
+    "logo": "/uploads/team-images/thumbnails/54.png"
+  },
+  "55": {
+    "name": "NorskeNokkelsnikere",
+    "aff": "",
+    "country": "Norway",
+    "logo": "/uploads/team-images/thumbnails/55.png"
+  },
+  "56": {
+    "name": "r3kapig",
+    "aff": "",
+    "country": "China",
+    "logo": "/uploads/team-images/thumbnails/56.png"
+  },
+  "57": {
+    "name": "datapoison",
+    "aff": "",
+    "country": "Monaco",
+    "logo": "/uploads/team-images/thumbnails/57.png"
+  },
+  "58": {
+    "name": "IBEEE",
+    "aff": "MIET",
+    "country": "Russian Federation",
+    "logo": null
+  },
+  "59": {
+    "name": "DistributedLivelock",
+    "aff": "",
+    "country": "Poland",
+    "logo": null
+  },
+  "60": {
+    "name": "pwnthenope",
+    "aff": "Universit\u00e0 degli Studi di Napoli Parthenope",
+    "country": "Italy",
+    "logo": "/uploads/team-images/thumbnails/60.png"
+  },
+  "61": {
+    "name": "pcman",
+    "aff": "",
+    "country": "Turkey",
+    "logo": null
+  },
+  "62": {
+    "name": "Cyberclowns",
+    "aff": "",
+    "country": "Ukraine",
+    "logo": "/uploads/team-images/thumbnails/62.png"
+  },
+  "63": {
+    "name": "Indianhackers",
+    "aff": "",
+    "country": "India",
+    "logo": null
+  },
+  "64": {
+    "name": "fibonhack",
+    "aff": "Universit\u00e0 di Pisa",
+    "country": "Italy",
+    "logo": "/uploads/team-images/thumbnails/64.png"
+  },
+  "65": {
+    "name": "ECSC_Team_Germany",
+    "aff": "Cyber Cyber Cyber",
+    "country": "Germany",
+    "logo": "/uploads/team-images/thumbnails/65.png"
+  },
+  "66": {
+    "name": "f_prime",
+    "aff": "",
+    "country": "Germany",
+    "logo": null
+  },
+  "67": {
+    "name": "RedHazzarTeam",
+    "aff": "CODEBY",
+    "country": "Russian Federation",
+    "logo": "/uploads/team-images/thumbnails/67.png"
+  },
+  "68": {
+    "name": "CYberMouflons",
+    "aff": "",
+    "country": "Cyprus",
+    "logo": "/uploads/team-images/thumbnails/68.png"
+  },
+  "69": {
+    "name": "Ci0h05t",
+    "aff": "",
+    "country": "United States",
+    "logo": "/uploads/team-images/thumbnails/69.png"
+  },
+  "70": {
+    "name": "Crisofilaxx",
+    "aff": "",
+    "country": "Argentina",
+    "logo": null
+  },
+  "71": {
+    "name": "Omsk_Hackers",
+    "aff": "Swag CTF players from Omsk and Tula",
+    "country": "Russian Federation",
+    "logo": "/uploads/team-images/thumbnails/71.png"
+  },
+  "72": {
+    "name": "CyberSpace",
+    "aff": "",
+    "country": "United States",
+    "logo": "/uploads/team-images/thumbnails/72.png"
+  },
+  "73": {
+    "name": "Pwn17",
+    "aff": "",
+    "country": "International",
+    "logo": null
+  },
+  "74": {
+    "name": "dtl",
+    "aff": "",
+    "country": "Russian Federation",
+    "logo": null
+  },
+  "77": {
+    "name": "CIT4",
+    "aff": "",
+    "country": "Singapore",
+    "logo": null
+  },
+  "78": {
+    "name": "elliptic_garden",
+    "aff": "",
+    "country": "United States",
+    "logo": null
+  },
+  "80": {
+    "name": "IgniteYSU",
+    "aff": "",
+    "country": "Indonesia",
+    "logo": null
+  },
+  "81": {
+    "name": "ayamgoreng",
+    "aff": "teamayamgoreng",
+    "country": "Guam",
+    "logo": null
+  },
+  "82": {
+    "name": "PastH4ckBox",
+    "aff": "",
+    "country": "France",
+    "logo": null
+  },
+  "83": {
+    "name": "RedCadets",
+    "aff": "VKA",
+    "country": "Russian Federation",
+    "logo": null
+  },
+  "85": {
+    "name": "Kyros",
+    "aff": "PES University",
+    "country": "India",
+    "logo": "/uploads/team-images/thumbnails/85.png"
+  },
+  "86": {
+    "name": "Imposter_detection_squad",
+    "aff": "",
+    "country": "Russian Federation",
+    "logo": "/uploads/team-images/thumbnails/86_yqSaCdj.png"
+  },
+  "87": {
+    "name": "54e2952a4f049a4d8f11740c0ca852d6",
+    "aff": "",
+    "country": "Spain",
+    "logo": null
+  },
+  "89": {
+    "name": "testingteamtestingteam",
+    "aff": "",
+    "country": "Norway",
+    "logo": null
+  },
+  "90": {
+    "name": "No0b",
+    "aff": "",
+    "country": "Viet Nam",
+    "logo": null
+  },
+  "91": {
+    "name": "ScriptKittiesCA",
+    "aff": "Script Kitties",
+    "country": "Canada",
+    "logo": "/uploads/team-images/thumbnails/91.png"
+  },
+  "93": {
+    "name": "pastabase64",
+    "aff": "",
+    "country": "Argentina",
+    "logo": null
+  },
+  "94": {
+    "name": "ECSC-FI",
+    "aff": "ECSC Team Finland",
+    "country": "Finland",
+    "logo": "/uploads/team-images/thumbnails/94.png"
+  },
+  "95": {
+    "name": "SSPS_CYB34R_T34M",
+    "aff": "",
+    "country": "Czech Republic",
+    "logo": null
+  },
+  "96": {
+    "name": "r3pka",
+    "aff": "",
+    "country": "Russian Federation",
+    "logo": "/uploads/team-images/thumbnails/96.png"
+  },
+  "97": {
+    "name": "We_0wn_Y0u",
+    "aff": "TU Wien/SBA Research/University of Vienna",
+    "country": "Austria",
+    "logo": "/uploads/team-images/thumbnails/97.png"
+  },
+  "98": {
+    "name": "Luke",
+    "aff": "",
+    "country": "United States",
+    "logo": null
+  },
+  "99": {
+    "name": "KebabEngineers",
+    "aff": "",
+    "country": "Sweden",
+    "logo": "/uploads/team-images/thumbnails/99.png"
+  },
+  "100": {
+    "name": "0xhillside",
+    "aff": "JORDAN!!",
+    "country": "Jordan",
+    "logo": "/uploads/team-images/thumbnails/100.png"
+  },
+  "101": {
+    "name": "UML_Hackers",
+    "aff": "",
+    "country": "United States",
+    "logo": "/uploads/team-images/thumbnails/101.png"
+  },
+  "102": {
+    "name": "club.eh",
+    "aff": "MacEwan University",
+    "country": "Canada",
+    "logo": "/uploads/team-images/thumbnails/102.png"
+  },
+  "103": {
+    "name": "persiancats",
+    "aff": "NEU",
+    "country": "United States",
+    "logo": null
+  },
+  "105": {
+    "name": "mehhh",
+    "aff": "",
+    "country": "France",
+    "logo": null
+  },
+  "106": {
+    "name": "Jankenpong",
+    "aff": "",
+    "country": "Malaysia",
+    "logo": "/uploads/team-images/thumbnails/106.png"
+  },
+  "107": {
+    "name": "ECSC_Team_France",
+    "aff": "",
+    "country": "France",
+    "logo": "/uploads/team-images/thumbnails/107.png"
+  },
+  "108": {
+    "name": "Telur",
+    "aff": "",
+    "country": "Togo",
+    "logo": null
+  },
+  "109": {
+    "name": "ECSC_Team_Greece",
+    "aff": "ecsc.gr",
+    "country": "Greece",
+    "logo": "/uploads/team-images/thumbnails/109.png"
+  },
+  "110": {
+    "name": "SNHT",
+    "aff": "Swedish National Hacking Team",
+    "country": "Sweden",
+    "logo": null
+  },
+  "246": {
+    "name": "Mike",
+    "aff": "",
+    "country": "Italy",
+    "logo": null
+  },
+  "248": {
+    "name": "newbie",
+    "aff": "",
+    "country": "India",
+    "logo": null
+  },
+  "249": {
+    "name": "nullzone",
+    "aff": "",
+    "country": "International",
+    "logo": null
+  },
+  "250": {
+    "name": "FriendsJP",
+    "aff": "",
+    "country": "Japan",
+    "logo": null
+  },
+  "251": {
+    "name": "P\u00f6\u00f6p\u00f6ilij\u00e4t",
+    "aff": "",
+    "country": "Finland",
+    "logo": "/uploads/team-images/thumbnails/251.png"
+  },
+  "252": {
+    "name": "Hackerdom",
+    "aff": "Ural Federal University",
+    "country": "Russian Federation",
+    "logo": "/uploads/team-images/thumbnails/252.png"
+  },
+  "253": {
+    "name": "Cubemastery",
+    "aff": "",
+    "country": "United States",
+    "logo": "/uploads/team-images/thumbnails/253.png"
+  },
+  "254": {
+    "name": "KopiGoo",
+    "aff": "",
+    "country": "Malaysia",
+    "logo": null
+  },
+  "255": {
+    "name": "0NLY_FL4GS",
+    "aff": "",
+    "country": "India",
+    "logo": null
+  },
+  "256": {
+    "name": "0dayexploitz",
+    "aff": "",
+    "country": "Israel",
+    "logo": null
+  },
+  "257": {
+    "name": "load",
+    "aff": "",
+    "country": "Russian Federation",
+    "logo": null
+  },
+  "258": {
+    "name": "Bushwhackers",
+    "aff": "Moscow State University",
+    "country": "Russian Federation",
+    "logo": "/uploads/team-images/thumbnails/258.png"
+  },
+  "259": {
+    "name": "MvtinaPwn",
+    "aff": "",
+    "country": "Italy",
+    "logo": "/uploads/team-images/thumbnails/259.png"
+  },
+  "260": {
+    "name": "SiBears",
+    "aff": "TSU",
+    "country": "Russian Federation",
+    "logo": "/uploads/team-images/thumbnails/260.png"
+  },
+  "263": {
+    "name": "malloc_bois",
+    "aff": "Indian Institute of Technology Roorkee",
+    "country": "India",
+    "logo": null
+  },
+  "264": {
+    "name": "C4T_BuT_S4D",
+    "aff": "",
+    "country": "Russian Federation",
+    "logo": "/uploads/team-images/thumbnails/264.png"
+  },
+  "265": {
+    "name": "STT",
+    "aff": "Instituto Superior T\u00e9cnico",
+    "country": "Portugal",
+    "logo": null
+  },
+  "267": {
+    "name": "TeamItaly",
+    "aff": "TeamItaly",
+    "country": "Italy",
+    "logo": "/uploads/team-images/thumbnails/267.png"
+  },
+  "268": {
+    "name": "VoltSecCTF",
+    "aff": "",
+    "country": "United States",
+    "logo": "/uploads/team-images/thumbnails/268.png"
+  },
+  "269": {
+    "name": "FluxFingers",
+    "aff": "Ruhr-University Bochum",
+    "country": "Germany",
+    "logo": "/uploads/team-images/thumbnails/269.png"
+  },
+  "270": {
+    "name": "TrojanSec",
+    "aff": "University of Southern California",
+    "country": "United States",
+    "logo": null
+  },
+  "271": {
+    "name": "flusive",
+    "aff": "",
+    "country": "Poland",
+    "logo": null
+  },
+  "272": {
+    "name": "LosFuzzys",
+    "aff": "Graz University of Technology",
+    "country": "Austria",
+    "logo": "/uploads/team-images/thumbnails/272.png"
+  },
+  "273": {
+    "name": "IrelandWithoutTheRE",
+    "aff": "",
+    "country": "Ireland",
+    "logo": "/uploads/team-images/thumbnails/273_zcgAFYn.png"
+  },
+  "274": {
+    "name": "KXTI_sh",
+    "aff": "",
+    "country": "Russian Federation",
+    "logo": "/uploads/team-images/thumbnails/274.png"
+  },
+  "275": {
+    "name": "ECSC_PL",
+    "aff": "",
+    "country": "Poland",
+    "logo": null
+  },
+  "277": {
+    "name": "z1000",
+    "aff": "",
+    "country": "Viet Nam",
+    "logo": null
+  },
+  "278": {
+    "name": "dangdang777",
+    "aff": "",
+    "country": "China",
+    "logo": null
+  },
+  "279": {
+    "name": "swoosh",
+    "aff": "THU",
+    "country": "United States",
+    "logo": "/uploads/team-images/thumbnails/279.png"
+  },
+  "280": {
+    "name": "nanng123",
+    "aff": "",
+    "country": "Andorra",
+    "logo": null
+  },
+  "281": {
+    "name": "EthicalHackersClub",
+    "aff": "",
+    "country": "Philippines",
+    "logo": "/uploads/team-images/thumbnails/281.png"
+  },
+  "282": {
+    "name": "test12358",
+    "aff": "",
+    "country": "China",
+    "logo": null
+  },
+  "283": {
+    "name": "NFB",
+    "aff": "OmSTU",
+    "country": "Russian Federation",
+    "logo": "/uploads/team-images/thumbnails/283.png"
+  },
+  "284": {
+    "name": "yuvraj",
+    "aff": "",
+    "country": "India",
+    "logo": null
+  },
+  "285": {
+    "name": "Arpan_Dey",
+    "aff": "",
+    "country": "India",
+    "logo": null
+  },
+  "286": {
+    "name": "NoExploits",
+    "aff": "",
+    "country": "International",
+    "logo": "/uploads/team-images/thumbnails/286.png"
+  },
+  "287": {
+    "name": "lnwhack",
+    "aff": "",
+    "country": "Thailand",
+    "logo": null
+  },
+  "289": {
+    "name": "Pwnzer0tt1",
+    "aff": "Politecnico di Bari",
+    "country": "Italy",
+    "logo": "/uploads/team-images/thumbnails/289.png"
+  },
+  "292": {
+    "name": "TeamCanada",
+    "aff": "Team Canada",
+    "country": "Canada",
+    "logo": "/uploads/team-images/thumbnails/292.png"
+  },
+  "293": {
+    "name": "Pilum_Muralis",
+    "aff": "",
+    "country": "India",
+    "logo": null
+  },
+  "294": {
+    "name": "EchoSec",
+    "aff": "Inteli",
+    "country": "Brazil",
+    "logo": "/uploads/team-images/thumbnails/294.png"
+  },
+  "295": {
+    "name": "aalt",
+    "aff": "MSTUCA",
+    "country": "Russian Federation",
+    "logo": null
+  },
+  "298": {
+    "name": "sn0rlax",
+    "aff": "PTIT",
+    "country": "Viet Nam",
+    "logo": "/uploads/team-images/thumbnails/298.png"
+  },
+  "299": {
+    "name": "ZeroFlagsInc",
+    "aff": "",
+    "country": "Germany",
+    "logo": "/uploads/team-images/thumbnails/299.png"
+  },
+  "300": {
+    "name": "pwnthepope",
+    "aff": "Sapienza Universit\u00e0 di Roma",
+    "country": "Italy",
+    "logo": "/uploads/team-images/thumbnails/300.png"
+  },
+  "301": {
+    "name": "mode13h",
+    "aff": "",
+    "country": "Norway",
+    "logo": null
+  },
+  "302": {
+    "name": "sploits",
+    "aff": "Deeplay",
+    "country": "Russian Federation",
+    "logo": null
+  },
+  "303": {
+    "name": "alexundeer",
+    "aff": "",
+    "country": "Russian Federation",
+    "logo": null
+  },
+  "304": {
+    "name": "Squid_Proxy_Lovers",
+    "aff": "",
+    "country": "United States",
+    "logo": "/uploads/team-images/thumbnails/304.png"
+  },
+  "305": {
+    "name": "BKISC",
+    "aff": "BK Information Security Circus",
+    "country": "Viet Nam",
+    "logo": null
+  },
+  "306": {
+    "name": "h4shk4t",
+    "aff": "Indian Institute of Technology Roorkee",
+    "country": "India",
+    "logo": "/uploads/team-images/thumbnails/306.png"
+  },
+  "307": {
+    "name": "ECSC_Team_Slovakia",
+    "aff": "",
+    "country": "Slovakia",
+    "logo": "/uploads/team-images/thumbnails/307.png"
+  },
+  "308": {
+    "name": "Super_Hackers",
+    "aff": "",
+    "country": "Tanzania, United Republic of",
+    "logo": null
+  },
+  "309": {
+    "name": "StayStuxnet",
+    "aff": "",
+    "country": "Mongolia",
+    "logo": null
+  },
+  "310": {
+    "name": "s1k1nt1",
+    "aff": "",
+    "country": "Luxembourg",
+    "logo": "/uploads/team-images/thumbnails/310.png"
+  },
+  "311": {
+    "name": "bearmorethanbeer",
+    "aff": "MonkeyStrongTogether",
+    "country": "Turkey",
+    "logo": null
+  },
+  "312": {
+    "name": "r4w",
+    "aff": "",
+    "country": "Turkey",
+    "logo": null
+  },
+  "313": {
+    "name": "n0rm4n",
+    "aff": "",
+    "country": "India",
+    "logo": null
+  },
+  "315": {
+    "name": "VrumVrum",
+    "aff": "",
+    "country": "Slovenia",
+    "logo": null
+  },
+  "316": {
+    "name": "VHackaBoia",
+    "aff": "Universit\u00e0 degli studi della Campania Luigi Vanvitelli",
+    "country": "Italy",
+    "logo": "/uploads/team-images/thumbnails/316.png"
+  },
+  "317": {
+    "name": "SecuriTI",
+    "aff": "",
+    "country": "Korea, Republic of",
+    "logo": null
+  },
+  "318": {
+    "name": "dixie_flatline",
+    "aff": "",
+    "country": "Italy",
+    "logo": "/uploads/team-images/thumbnails/318.png"
+  },
+  "319": {
+    "name": "TheFlatNetworkSociety",
+    "aff": "",
+    "country": "France",
+    "logo": "/uploads/team-images/thumbnails/319.png"
+  },
+  "320": {
+    "name": "srsd",
+    "aff": "",
+    "country": "Viet Nam",
+    "logo": null
+  },
+  "321": {
+    "name": "VN2667",
+    "aff": "",
+    "country": "Viet Nam",
+    "logo": null
+  },
+  "322": {
+    "name": "CyberTaskForceZero",
+    "aff": "TU Braunschweig",
+    "country": "Germany",
+    "logo": "/uploads/team-images/thumbnails/322.png"
+  },
+  "323": {
+    "name": "DeathNet",
+    "aff": "",
+    "country": "Viet Nam",
+    "logo": null
+  },
+  "324": {
+    "name": "Soup_McGee",
+    "aff": "",
+    "country": "United States",
+    "logo": "/uploads/team-images/thumbnails/324.png"
+  },
+  "325": {
+    "name": "zgjx6",
+    "aff": "",
+    "country": "China",
+    "logo": null
+  },
+  "326": {
+    "name": "BRD",
+    "aff": "",
+    "country": "Belgium",
+    "logo": null
+  },
+  "327": {
+    "name": "Cyberlandslaget",
+    "aff": "Team Norway",
+    "country": "Norway",
+    "logo": null
+  },
+  "328": {
+    "name": "UAC",
+    "aff": "Universidade de Aveiro",
+    "country": "Portugal",
+    "logo": null
+  },
+  "329": {
+    "name": "CoSGang",
+    "aff": "",
+    "country": "Viet Nam",
+    "logo": "/uploads/team-images/thumbnails/329.png"
+  },
+  "330": {
+    "name": "CCWJ",
+    "aff": "",
+    "country": "China",
+    "logo": "/uploads/team-images/thumbnails/330.png"
+  },
+  "331": {
+    "name": "NUST",
+    "aff": "namibia university of science and technology",
+    "country": "Namibia",
+    "logo": "/uploads/team-images/thumbnails/331.png"
+  },
+  "333": {
+    "name": "anSIUMma",
+    "aff": "",
+    "country": "Italy",
+    "logo": null
+  },
+  "334": {
+    "name": "v3g0",
+    "aff": "Ca' Foscari",
+    "country": "Italy",
+    "logo": null
+  },
+  "335": {
+    "name": "L.A.R.P.",
+    "aff": "",
+    "country": "Germany",
+    "logo": "/uploads/team-images/thumbnails/335.png"
+  },
+  "336": {
+    "name": "Nigma",
+    "aff": "",
+    "country": "Denmark",
+    "logo": null
+  },
+  "338": {
+    "name": "Richard",
+    "aff": "",
+    "country": "Netherlands",
+    "logo": null
+  },
+  "339": {
+    "name": "Shinka",
+    "aff": "",
+    "country": "Netherlands",
+    "logo": null
+  },
+  "340": {
+    "name": "Platypwnies",
+    "aff": "Hasso-Plattner-Institute",
+    "country": "Germany",
+    "logo": "/uploads/team-images/thumbnails/340.png"
+  },
+  "341": {
+    "name": "ECSC_BG",
+    "aff": "ECSC Team Bulgaria",
+    "country": "Bulgaria",
+    "logo": "/uploads/team-images/thumbnails/341_am0S2A1.png"
+  },
+  "343": {
+    "name": "cybersecurity.li",
+    "aff": "Cybersecurity Liechtenstein",
+    "country": "Liechtenstein",
+    "logo": "/uploads/team-images/thumbnails/343.png"
+  },
+  "344": {
+    "name": "Goethe",
+    "aff": "",
+    "country": "Italy",
+    "logo": "/uploads/team-images/thumbnails/344.png"
+  },
+  "345": {
+    "name": "Kalmarunionen",
+    "aff": "",
+    "country": "Denmark",
+    "logo": null
+  },
+  "347": {
+    "name": "red_team",
+    "aff": "",
+    "country": "France",
+    "logo": "/uploads/team-images/thumbnails/347.png"
+  },
+  "348": {
+    "name": "blahey",
+    "aff": "",
+    "country": "Falkland Islands (Malvinas)",
+    "logo": null
+  },
+  "349": {
+    "name": "jooy",
+    "aff": "",
+    "country": "Mongolia",
+    "logo": "/uploads/team-images/thumbnails/349.png"
+  },
+  "352": {
+    "name": "babyshark",
+    "aff": "",
+    "country": "Viet Nam",
+    "logo": null
+  },
+  "353": {
+    "name": "acon",
+    "aff": "",
+    "country": "Korea, Republic of",
+    "logo": null
+  },
+  "354": {
+    "name": "hkdmh",
+    "aff": "",
+    "country": "China",
+    "logo": null
+  },
+  "356": {
+    "name": "D4ISh0",
+    "aff": "D4ISh0",
+    "country": "United States",
+    "logo": "/uploads/team-images/thumbnails/356.png"
+  },
+  "357": {
+    "name": "Frostnail",
+    "aff": "",
+    "country": "Russian Federation",
+    "logo": null
+  },
+  "358": {
+    "name": "diffany",
+    "aff": "",
+    "country": "China",
+    "logo": null
+  },
+  "360": {
+    "name": "LightningMcQueen",
+    "aff": "",
+    "country": "Romania",
+    "logo": null
+  },
+  "361": {
+    "name": "Skadushh",
+    "aff": "",
+    "country": "Romania",
+    "logo": null
+  },
+  "362": {
+    "name": "fzhshzh",
+    "aff": "",
+    "country": "Albania",
+    "logo": null
+  },
+  "363": {
+    "name": "cR4.sh",
+    "aff": "RTU MIREA",
+    "country": "Russian Federation",
+    "logo": "/uploads/team-images/thumbnails/363.png"
+  },
+  "364": {
+    "name": "wxx",
+    "aff": "zstu",
+    "country": "China",
+    "logo": null
+  },
+  "365": {
+    "name": "Drovosec",
+    "aff": "Russia",
+    "country": "Russian Federation",
+    "logo": "/uploads/team-images/thumbnails/365.png"
+  },
+  "366": {
+    "name": "rutul_21",
+    "aff": "",
+    "country": "India",
+    "logo": null
+  },
+  "367": {
+    "name": "vsaij",
+    "aff": "",
+    "country": "India",
+    "logo": null
+  },
+  "368": {
+    "name": "thehackerscrew",
+    "aff": "",
+    "country": "Antarctica",
+    "logo": "/uploads/team-images/thumbnails/368.png"
+  },
+  "370": {
+    "name": "mother.hacker",
+    "aff": "",
+    "country": "International",
+    "logo": null
+  },
+  "371": {
+    "name": "organizers",
+    "aff": "",
+    "country": "Switzerland",
+    "logo": null
+  },
+  "372": {
+    "name": "SKSD",
+    "aff": "",
+    "country": "Indonesia",
+    "logo": "/uploads/team-images/thumbnails/372.png"
+  },
+  "373": {
+    "name": "Mr.NOODLE",
+    "aff": "",
+    "country": "Belgium",
+    "logo": "/uploads/team-images/thumbnails/373.png"
+  },
+  "374": {
+    "name": "youlin",
+    "aff": "NHKY",
+    "country": "China",
+    "logo": null
+  },
+  "375": {
+    "name": "Cyb0rgBytes",
+    "aff": "",
+    "country": "United Arab Emirates",
+    "logo": null
+  },
+  "376": {
+    "name": "Hitesh",
+    "aff": "",
+    "country": "India",
+    "logo": null
+  },
+  "377": {
+    "name": "ForestWolf",
+    "aff": "Hohai",
+    "country": "China",
+    "logo": null
+  },
+  "378": {
+    "name": "Dogu589",
+    "aff": "589 Team",
+    "country": "Turkey",
+    "logo": "/uploads/team-images/thumbnails/378.png"
+  },
+  "379": {
+    "name": "FR13NDS_TEAM",
+    "aff": "Astana IT University",
+    "country": "Kazakhstan",
+    "logo": null
+  }
+}

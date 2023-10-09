@@ -2,24 +2,20 @@ package faustv2
 
 import (
 	"encoding/json"
-	"errors"
 	"fmt"
 	"io"
 	"log"
-	"net/http"
+
+	"github.com/boxmein/adctf_scoreboard_exporter/pkg/httpclient"
 )
 
 func LoadScoreboardRoundJson(urlPattern string, roundId int64) (*ScoreboardRoundJson, error) {
 	url := fmt.Sprintf(urlPattern, roundId)
-	resp, err := http.DefaultClient.Get(url)
+	resp, err := httpclient.HttpClient.Get(url)
+	log.Printf("GET %s => %s", url, resp.Status)
 	if err != nil {
 		return nil, err
 	}
-	if resp == nil {
-		return nil, errors.New("response was nil for some reason")
-	}
-	log.Printf("GET %s => %s", url, resp.Status)
-
 	defer resp.Body.Close()
 	data, err := io.ReadAll(resp.Body)
 	if err != nil {

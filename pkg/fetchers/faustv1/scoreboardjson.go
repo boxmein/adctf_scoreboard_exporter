@@ -2,19 +2,16 @@ package faustv1
 
 import (
 	"encoding/json"
-	"errors"
 	"io"
 	"log"
-	"net/http"
+
+	"github.com/boxmein/adctf_scoreboard_exporter/pkg/httpclient"
 )
 
 func LoadScoreboardJson(url string) (*ScoreboardJson, error) {
-	resp, err := http.DefaultClient.Get(url)
+	resp, err := httpclient.HttpClient.Get(url)
 	if err != nil {
 		return nil, err
-	}
-	if resp == nil {
-		return nil, errors.New("resp was nil for some reason")
 	}
 	log.Printf("GET %s => %s", url, resp.Status)
 	defer resp.Body.Close()
