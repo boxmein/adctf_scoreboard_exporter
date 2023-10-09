@@ -2,6 +2,9 @@
 
 Prometheus exporter for Attack Defense CTF scoreboards.
 
+![image](https://github.com/boxmein/adctf_scoreboard_exporter/assets/358714/8dbb2282-4659-43ab-8c84-ab33c68e527d)
+
+
 Supported Attack Defense CTF scoreboard APIs:
 
 * `faustv1` (old Faust CTF scoreboard API)
