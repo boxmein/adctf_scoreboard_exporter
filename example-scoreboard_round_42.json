@@ -1,0 +1,4242 @@
+{
+  "tick": 42,
+  "scoreboard": [
+    {
+      "rank": 1,
+      "team_id": 2,
+      "services": [
+        {
+          "m": "Flagstore 1 (up)\n",
+          "c": 0,
+          "dc": [
+            0,
+            0,
+            0
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 235.5270685080592,
+          "ds": 5.744562646538043,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\nFlagstore 3 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\nFlagstore 3 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        }
+      ],
+      "points": 235.5270685080592,
+      "o": 0,
+      "do": 0,
+      "d": 0,
+      "dd": 0,
+      "s": 235.5270685080592,
+      "ds": 5.744562646538043
+    },
+    {
+      "rank": 2,
+      "team_id": 3,
+      "services": [
+        {
+          "m": "Flagstore 1 (up)\n",
+          "c": 0,
+          "dc": [
+            0,
+            0,
+            0
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 235.5270685080592,
+          "ds": 5.744562646538043,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\nFlagstore 3 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\nFlagstore 3 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        }
+      ],
+      "points": 235.5270685080592,
+      "o": 0,
+      "do": 0,
+      "d": 0,
+      "dd": 0,
+      "s": 235.5270685080592,
+      "ds": 5.744562646538043
+    },
+    {
+      "rank": 3,
+      "team_id": 4,
+      "services": [
+        {
+          "m": "Flagstore 1 (up)\n",
+          "c": 0,
+          "dc": [
+            0,
+            0,
+            0
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 235.5270685080592,
+          "ds": 5.744562646538043,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\nFlagstore 3 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\nFlagstore 3 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        }
+      ],
+      "points": 235.5270685080592,
+      "o": 0,
+      "do": 0,
+      "d": 0,
+      "dd": 0,
+      "s": 235.5270685080592,
+      "ds": 5.744562646538043
+    },
+    {
+      "rank": 4,
+      "team_id": 5,
+      "services": [
+        {
+          "m": "Flagstore 1 (up)\n",
+          "c": 0,
+          "dc": [
+            0,
+            0,
+            0
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 235.5270685080592,
+          "ds": 5.744562646538043,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\nFlagstore 3 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\nFlagstore 3 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        }
+      ],
+      "points": 235.5270685080592,
+      "o": 0,
+      "do": 0,
+      "d": 0,
+      "dd": 0,
+      "s": 235.5270685080592,
+      "ds": 5.744562646538043
+    },
+    {
+      "rank": 5,
+      "team_id": 6,
+      "services": [
+        {
+          "m": "Flagstore 1 (up)\n",
+          "c": 0,
+          "dc": [
+            0,
+            0,
+            0
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 235.5270685080592,
+          "ds": 5.744562646538043,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\nFlagstore 3 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\nFlagstore 3 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        }
+      ],
+      "points": 235.5270685080592,
+      "o": 0,
+      "do": 0,
+      "d": 0,
+      "dd": 0,
+      "s": 235.5270685080592,
+      "ds": 5.744562646538043
+    },
+    {
+      "rank": 6,
+      "team_id": 7,
+      "services": [
+        {
+          "m": "Flagstore 1 (up)\n",
+          "c": 0,
+          "dc": [
+            0,
+            0,
+            0
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 235.5270685080592,
+          "ds": 5.744562646538043,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\nFlagstore 3 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\nFlagstore 3 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        }
+      ],
+      "points": 235.5270685080592,
+      "o": 0,
+      "do": 0,
+      "d": 0,
+      "dd": 0,
+      "s": 235.5270685080592,
+      "ds": 5.744562646538043
+    },
+    {
+      "rank": 7,
+      "team_id": 8,
+      "services": [
+        {
+          "m": "Flagstore 1 (up)\n",
+          "c": 0,
+          "dc": [
+            0,
+            0,
+            0
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 235.5270685080592,
+          "ds": 5.744562646538043,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\nFlagstore 3 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\nFlagstore 3 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        }
+      ],
+      "points": 235.5270685080592,
+      "o": 0,
+      "do": 0,
+      "d": 0,
+      "dd": 0,
+      "s": 235.5270685080592,
+      "ds": 5.744562646538043
+    },
+    {
+      "rank": 8,
+      "team_id": 9,
+      "services": [
+        {
+          "m": "Flagstore 1 (up)\n",
+          "c": 0,
+          "dc": [
+            0,
+            0,
+            0
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 235.5270685080592,
+          "ds": 5.744562646538043,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\nFlagstore 3 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\nFlagstore 3 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        }
+      ],
+      "points": 235.5270685080592,
+      "o": 0,
+      "do": 0,
+      "d": 0,
+      "dd": 0,
+      "s": 235.5270685080592,
+      "ds": 5.744562646538043
+    },
+    {
+      "rank": 9,
+      "team_id": 10,
+      "services": [
+        {
+          "m": "Flagstore 1 (up)\n",
+          "c": 0,
+          "dc": [
+            0,
+            0,
+            0
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 235.5270685080592,
+          "ds": 5.744562646538043,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\nFlagstore 3 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\nFlagstore 3 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        }
+      ],
+      "points": 235.5270685080592,
+      "o": 0,
+      "do": 0,
+      "d": 0,
+      "dd": 0,
+      "s": 235.5270685080592,
+      "ds": 5.744562646538043
+    },
+    {
+      "rank": 10,
+      "team_id": 11,
+      "services": [
+        {
+          "m": "Flagstore 1 (up)\n",
+          "c": 0,
+          "dc": [
+            0,
+            0,
+            0
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 235.5270685080592,
+          "ds": 5.744562646538043,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\nFlagstore 3 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\nFlagstore 3 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        }
+      ],
+      "points": 235.5270685080592,
+      "o": 0,
+      "do": 0,
+      "d": 0,
+      "dd": 0,
+      "s": 235.5270685080592,
+      "ds": 5.744562646538043
+    },
+    {
+      "rank": 11,
+      "team_id": 12,
+      "services": [
+        {
+          "m": "Flagstore 1 (up)\n",
+          "c": 0,
+          "dc": [
+            0,
+            0,
+            0
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 235.5270685080592,
+          "ds": 5.744562646538043,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\nFlagstore 3 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\nFlagstore 3 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        }
+      ],
+      "points": 235.5270685080592,
+      "o": 0,
+      "do": 0,
+      "d": 0,
+      "dd": 0,
+      "s": 235.5270685080592,
+      "ds": 5.744562646538043
+    },
+    {
+      "rank": 12,
+      "team_id": 13,
+      "services": [
+        {
+          "m": "Flagstore 1 (up)\n",
+          "c": 0,
+          "dc": [
+            0,
+            0,
+            0
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 235.5270685080592,
+          "ds": 5.744562646538043,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\nFlagstore 3 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\nFlagstore 3 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        }
+      ],
+      "points": 235.5270685080592,
+      "o": 0,
+      "do": 0,
+      "d": 0,
+      "dd": 0,
+      "s": 235.5270685080592,
+      "ds": 5.744562646538043
+    },
+    {
+      "rank": 13,
+      "team_id": 14,
+      "services": [
+        {
+          "m": "Flagstore 1 (up)\n",
+          "c": 0,
+          "dc": [
+            0,
+            0,
+            0
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 235.5270685080592,
+          "ds": 5.744562646538043,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\nFlagstore 3 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\nFlagstore 3 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        }
+      ],
+      "points": 235.5270685080592,
+      "o": 0,
+      "do": 0,
+      "d": 0,
+      "dd": 0,
+      "s": 235.5270685080592,
+      "ds": 5.744562646538043
+    },
+    {
+      "rank": 14,
+      "team_id": 15,
+      "services": [
+        {
+          "m": "Flagstore 1 (up)\n",
+          "c": 0,
+          "dc": [
+            0,
+            0,
+            0
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 235.5270685080592,
+          "ds": 5.744562646538043,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\nFlagstore 3 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\nFlagstore 3 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        }
+      ],
+      "points": 235.5270685080592,
+      "o": 0,
+      "do": 0,
+      "d": 0,
+      "dd": 0,
+      "s": 235.5270685080592,
+      "ds": 5.744562646538043
+    },
+    {
+      "rank": 15,
+      "team_id": 16,
+      "services": [
+        {
+          "m": "Flagstore 1 (up)\n",
+          "c": 0,
+          "dc": [
+            0,
+            0,
+            0
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 235.5270685080592,
+          "ds": 5.744562646538043,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\nFlagstore 3 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\nFlagstore 3 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        }
+      ],
+      "points": 235.5270685080592,
+      "o": 0,
+      "do": 0,
+      "d": 0,
+      "dd": 0,
+      "s": 235.5270685080592,
+      "ds": 5.744562646538043
+    },
+    {
+      "rank": 16,
+      "team_id": 17,
+      "services": [
+        {
+          "m": "Flagstore 1 (up)\n",
+          "c": 0,
+          "dc": [
+            0,
+            0,
+            0
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 235.5270685080592,
+          "ds": 5.744562646538043,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\nFlagstore 3 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\nFlagstore 3 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        }
+      ],
+      "points": 235.5270685080592,
+      "o": 0,
+      "do": 0,
+      "d": 0,
+      "dd": 0,
+      "s": 235.5270685080592,
+      "ds": 5.744562646538043
+    },
+    {
+      "rank": 17,
+      "team_id": 18,
+      "services": [
+        {
+          "m": "Flagstore 1 (up)\n",
+          "c": 0,
+          "dc": [
+            0,
+            0,
+            0
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 235.5270685080592,
+          "ds": 5.744562646538043,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\nFlagstore 3 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\nFlagstore 3 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        }
+      ],
+      "points": 235.5270685080592,
+      "o": 0,
+      "do": 0,
+      "d": 0,
+      "dd": 0,
+      "s": 235.5270685080592,
+      "ds": 5.744562646538043
+    },
+    {
+      "rank": 18,
+      "team_id": 19,
+      "services": [
+        {
+          "m": "Flagstore 1 (up)\n",
+          "c": 0,
+          "dc": [
+            0,
+            0,
+            0
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 235.5270685080592,
+          "ds": 5.744562646538043,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\nFlagstore 3 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\nFlagstore 3 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        }
+      ],
+      "points": 235.5270685080592,
+      "o": 0,
+      "do": 0,
+      "d": 0,
+      "dd": 0,
+      "s": 235.5270685080592,
+      "ds": 5.744562646538043
+    },
+    {
+      "rank": 19,
+      "team_id": 20,
+      "services": [
+        {
+          "m": "Flagstore 1 (up)\n",
+          "c": 0,
+          "dc": [
+            0,
+            0,
+            0
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 235.5270685080592,
+          "ds": 5.744562646538043,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\nFlagstore 3 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\nFlagstore 3 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        }
+      ],
+      "points": 235.5270685080592,
+      "o": 0,
+      "do": 0,
+      "d": 0,
+      "dd": 0,
+      "s": 235.5270685080592,
+      "ds": 5.744562646538043
+    },
+    {
+      "rank": 20,
+      "team_id": 21,
+      "services": [
+        {
+          "m": "Flagstore 1 (up)\n",
+          "c": 0,
+          "dc": [
+            0,
+            0,
+            0
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 235.5270685080592,
+          "ds": 5.744562646538043,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\nFlagstore 3 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\nFlagstore 3 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        }
+      ],
+      "points": 235.5270685080592,
+      "o": 0,
+      "do": 0,
+      "d": 0,
+      "dd": 0,
+      "s": 235.5270685080592,
+      "ds": 5.744562646538043
+    },
+    {
+      "rank": 21,
+      "team_id": 22,
+      "services": [
+        {
+          "m": "Flagstore 1 (up)\n",
+          "c": 0,
+          "dc": [
+            0,
+            0,
+            0
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 235.5270685080592,
+          "ds": 5.744562646538043,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\nFlagstore 3 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\nFlagstore 3 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        }
+      ],
+      "points": 235.5270685080592,
+      "o": 0,
+      "do": 0,
+      "d": 0,
+      "dd": 0,
+      "s": 235.5270685080592,
+      "ds": 5.744562646538043
+    },
+    {
+      "rank": 22,
+      "team_id": 23,
+      "services": [
+        {
+          "m": "Flagstore 1 (up)\n",
+          "c": 0,
+          "dc": [
+            0,
+            0,
+            0
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 235.5270685080592,
+          "ds": 5.744562646538043,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\nFlagstore 3 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\nFlagstore 3 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        }
+      ],
+      "points": 235.5270685080592,
+      "o": 0,
+      "do": 0,
+      "d": 0,
+      "dd": 0,
+      "s": 235.5270685080592,
+      "ds": 5.744562646538043
+    },
+    {
+      "rank": 23,
+      "team_id": 24,
+      "services": [
+        {
+          "m": "Flagstore 1 (up)\n",
+          "c": 0,
+          "dc": [
+            0,
+            0,
+            0
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 235.5270685080592,
+          "ds": 5.744562646538043,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\nFlagstore 3 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\nFlagstore 3 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        }
+      ],
+      "points": 235.5270685080592,
+      "o": 0,
+      "do": 0,
+      "d": 0,
+      "dd": 0,
+      "s": 235.5270685080592,
+      "ds": 5.744562646538043
+    },
+    {
+      "rank": 24,
+      "team_id": 25,
+      "services": [
+        {
+          "m": "Flagstore 1 (up)\n",
+          "c": 0,
+          "dc": [
+            0,
+            0,
+            0
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 235.5270685080592,
+          "ds": 5.744562646538043,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\nFlagstore 3 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\nFlagstore 3 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        }
+      ],
+      "points": 235.5270685080592,
+      "o": 0,
+      "do": 0,
+      "d": 0,
+      "dd": 0,
+      "s": 235.5270685080592,
+      "ds": 5.744562646538043
+    },
+    {
+      "rank": 25,
+      "team_id": 26,
+      "services": [
+        {
+          "m": "Flagstore 1 (up)\n",
+          "c": 0,
+          "dc": [
+            0,
+            0,
+            0
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 235.5270685080592,
+          "ds": 5.744562646538043,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\nFlagstore 3 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\nFlagstore 3 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        }
+      ],
+      "points": 235.5270685080592,
+      "o": 0,
+      "do": 0,
+      "d": 0,
+      "dd": 0,
+      "s": 235.5270685080592,
+      "ds": 5.744562646538043
+    },
+    {
+      "rank": 26,
+      "team_id": 27,
+      "services": [
+        {
+          "m": "Flagstore 1 (up)\n",
+          "c": 0,
+          "dc": [
+            0,
+            0,
+            0
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 235.5270685080592,
+          "ds": 5.744562646538043,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\nFlagstore 3 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\nFlagstore 3 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        }
+      ],
+      "points": 235.5270685080592,
+      "o": 0,
+      "do": 0,
+      "d": 0,
+      "dd": 0,
+      "s": 235.5270685080592,
+      "ds": 5.744562646538043
+    },
+    {
+      "rank": 27,
+      "team_id": 28,
+      "services": [
+        {
+          "m": "Flagstore 1 (up)\n",
+          "c": 0,
+          "dc": [
+            0,
+            0,
+            0
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 235.5270685080592,
+          "ds": 5.744562646538043,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\nFlagstore 3 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\nFlagstore 3 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        }
+      ],
+      "points": 235.5270685080592,
+      "o": 0,
+      "do": 0,
+      "d": 0,
+      "dd": 0,
+      "s": 235.5270685080592,
+      "ds": 5.744562646538043
+    },
+    {
+      "rank": 28,
+      "team_id": 29,
+      "services": [
+        {
+          "m": "Flagstore 1 (up)\n",
+          "c": 0,
+          "dc": [
+            0,
+            0,
+            0
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 235.5270685080592,
+          "ds": 5.744562646538043,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\nFlagstore 3 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\nFlagstore 3 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        }
+      ],
+      "points": 235.5270685080592,
+      "o": 0,
+      "do": 0,
+      "d": 0,
+      "dd": 0,
+      "s": 235.5270685080592,
+      "ds": 5.744562646538043
+    },
+    {
+      "rank": 29,
+      "team_id": 30,
+      "services": [
+        {
+          "m": "Flagstore 1 (up)\n",
+          "c": 0,
+          "dc": [
+            0,
+            0,
+            0
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 235.5270685080592,
+          "ds": 5.744562646538043,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\nFlagstore 3 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\nFlagstore 3 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        }
+      ],
+      "points": 235.5270685080592,
+      "o": 0,
+      "do": 0,
+      "d": 0,
+      "dd": 0,
+      "s": 235.5270685080592,
+      "ds": 5.744562646538043
+    },
+    {
+      "rank": 30,
+      "team_id": 31,
+      "services": [
+        {
+          "m": "Flagstore 1 (up)\n",
+          "c": 0,
+          "dc": [
+            0,
+            0,
+            0
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 235.5270685080592,
+          "ds": 5.744562646538043,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\nFlagstore 3 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\nFlagstore 3 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        }
+      ],
+      "points": 235.5270685080592,
+      "o": 0,
+      "do": 0,
+      "d": 0,
+      "dd": 0,
+      "s": 235.5270685080592,
+      "ds": 5.744562646538043
+    },
+    {
+      "rank": 31,
+      "team_id": 32,
+      "services": [
+        {
+          "m": "Flagstore 1 (up)\n",
+          "c": 0,
+          "dc": [
+            0,
+            0,
+            0
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 235.5270685080592,
+          "ds": 5.744562646538043,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\nFlagstore 3 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\nFlagstore 3 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        }
+      ],
+      "points": 235.5270685080592,
+      "o": 0,
+      "do": 0,
+      "d": 0,
+      "dd": 0,
+      "s": 235.5270685080592,
+      "ds": 5.744562646538043
+    },
+    {
+      "rank": 32,
+      "team_id": 33,
+      "services": [
+        {
+          "m": "Flagstore 1 (up)\n",
+          "c": 0,
+          "dc": [
+            0,
+            0,
+            0
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 235.5270685080592,
+          "ds": 5.744562646538043,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\nFlagstore 3 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\nFlagstore 3 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        }
+      ],
+      "points": 235.5270685080592,
+      "o": 0,
+      "do": 0,
+      "d": 0,
+      "dd": 0,
+      "s": 235.5270685080592,
+      "ds": 5.744562646538043
+    },
+    {
+      "rank": 33,
+      "team_id": 34,
+      "services": [
+        {
+          "m": "Flagstore 1 (up)\n",
+          "c": 0,
+          "dc": [
+            0,
+            0,
+            0
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 235.5270685080592,
+          "ds": 5.744562646538043,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\nFlagstore 3 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\nFlagstore 3 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        },
+        {
+          "m": "Flagstore 1 (not checked)\nFlagstore 2 (not checked)\n",
+          "c": -1,
+          "dc": [
+            -1,
+            -1,
+            -1
+          ],
+          "o": 0,
+          "do": 0,
+          "d": -0,
+          "dd": 0,
+          "s": 0,
+          "ds": 0,
+          "cap": 0,
+          "dcap": 0,
+          "st": 0,
+          "dst": 0
+        }
+      ],
+      "points": 235.5270685080592,
+      "o": 0,
+      "do": 0,
+      "d": 0,
+      "dd": 0,
+      "s": 235.5270685080592,
+      "ds": 5.744562646538043
+    }
+  ],
+  "status-descriptions": {
+    "0": "up",
+    "1": "down",
+    "2": "faulty",
+    "3": "flag not found",
+    "4": "recovering",
+    "-1": "not checked"
+  },
+  "services": [
+    {
+      "name": "Service 1",
+      "first_blood": [],
+      "attackers": 0,
+      "victims": 0
+    },
+    {
+      "name": "Service 2",
+      "first_blood": [],
+      "attackers": 0,
+      "victims": 0
+    },
+    {
+      "name": "Service 3",
+      "first_blood": [],
+      "attackers": 0,
+      "victims": 0
+    },
+    {
+      "name": "Service 4",
+      "first_blood": [],
+      "attackers": 0,
+      "victims": 0
+    },
+    {
+      "name": "Service 5",
+      "first_blood": [],
+      "attackers": 0,
+      "victims": 0
+    },
+    {
+      "name": "Service 6",
+      "first_blood": [],
+      "attackers": 0,
+      "victims": 0
+    }
+  ]
+}

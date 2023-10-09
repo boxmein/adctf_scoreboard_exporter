@@ -1,0 +1,21 @@
+version: '3.8'
+services:
+  exporter:
+    image: ghcr.io/boxmein/adctf_scoreboard_exporter
+    build:
+      context: .
+      dockerfile: Dockerfile
+    command: [
+      '--listenAddr', ':5000', 
+      'faustv2', 
+      '--base-url', 'https://2023.faustctf.net/'
+    ]
+    ports:
+      - '5000'
+
+  prometheus:
+    image: prom/prometheus
+    volumes:
+      - './examples/prometheus.yml:/etc/prometheus/prometheus.yml:ro'
+    ports:
+      - '9090:9090'
